@@ -36,8 +36,7 @@
 }
 
 .header-img {
-    display: flex;
-    gap: 10px;
+   font-size: 35px;
 }
 
 .header-img img {
